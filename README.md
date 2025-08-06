@@ -20,4 +20,4 @@ The application uses multiprocessing to isolate model execution and accurately m
   - Processing time (total and per parking space)
   - Model size and peak memory consumption
 
-To try the app, please visit: XXXXXXXXXXXXXXXXXX
+To try the app, please visit: https://aipi540-parking-lot-simulator.streamlit.app/
